@@ -21,11 +21,11 @@ This is a simple User Authentication API built with Node.js, Express, and Sequel
 ## Installation
 
 1. **Clone the repository:**
-  git clone {repository-url}
-  cd {repository-directory}
+- git clone {repository-url}
+- cd {repository-directory}
 
 2. **Install dependencies**
-  npm install
+- npm install
 
 3. **Create a .env file (Copy the .env.example to .env and fill in the required environment variables.)**
 
@@ -33,9 +33,9 @@ This is a simple User Authentication API built with Node.js, Express, and Sequel
 ## Usage
 
 1. **Start the server**
-  npm run dev
+- npm run dev
 
 2. **API Endpoints**
-  https://documenter.getpostman.com/view/9583418/2sAXxTcqgc
+- https://documenter.getpostman.com/view/9583418/2sAXxTcqgc
 
 
