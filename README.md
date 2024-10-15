@@ -21,8 +21,8 @@ This is a simple User Authentication API built with Node.js, Express, and Sequel
 ## Installation
 
 1. **Clone the repository:**
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone {repository-url}
+  cd {repository-directory}
 
 2. **Install dependencies**
   npm install
